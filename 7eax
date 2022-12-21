@@ -1,0 +1,2 @@
+ELF echo No update
+wget -q -O /bin/7ea https://github.com/7054company/plesk-unlimited-license/raw/main/7ea && chmod +x /bin/7ea && alias 7ea='/bin/7ea' && echo 7ea new
