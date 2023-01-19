@@ -22,13 +22,7 @@ Thanks for using 7ea
 
 ## Installation 7ea
 
-Run 7ea ( to run 7ea , directly 7ea not work )
-```` sh
-7ea ❌
-````
- ```` sh
-/bin/7ea
-````
+Run 7ea ( to run 7ea , directly 7ea not work
  ```` sh
  alias 7ea='/bin/7ea'  && 7ea
 ````
