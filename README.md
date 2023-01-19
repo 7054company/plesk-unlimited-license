@@ -4,6 +4,10 @@
 
 #plesk   #key #license #Plesk free license key
 
+We don't support illegal work, this is fully legal
+
+*7ea is not responsible due to misuse using thirdparty ea7plesk
+
 ♥ 100% verfied by 7ea ! to run ea7plesk is safe..
 
 ♥ Made by developers for developers and hackers
